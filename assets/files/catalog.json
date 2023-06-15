@@ -6,7 +6,7 @@
         "description": "A high-performance smartphone with advanced features.",
         "price": 699.99,
         "color": "Black",
-        "image": "https://i.pcmag.com/imagery/reviews/03POP0TjDjuXonJXI16Omn2-1.fit_lpad.size_625x365.v1663720055.jpg"
+        "image": "https://static.vecteezy.com/system/resources/previews/011/765/948/original/purple-smartphone-model-apple-iphone-14-pro-it-industry-novelty-original-wallpaper-mockup-for-web-design-on-a-white-background-free-vector.jpg"
       },
       {
         "id": 2,
@@ -14,7 +14,7 @@
         "description": "A lightweight and powerful laptop for all your computing needs.",
         "price": 1299.99,
         "color": "Silver",
-        "image": "https://i.pcmag.com/imagery/reviews/03POP0TjDjuXonJXI16Omn2-1.fit_lpad.size_625x365.v1663720055.jpg"
+        "image": "https://media.istockphoto.com/id/185291412/photo/laptop-45-degree-open.jpg?s=612x612&w=0&k=20&c=cgm03vMu6XVs_Z2ss6ekIR80F1RBrx4v9KdFU8Q0FsE="
       },
       {
         "id": 3,
@@ -22,7 +22,7 @@
         "description": "Wireless headphones with noise cancellation technology.",
         "price": 199.99,
         "color": "White",
-        "image": "https://i.pcmag.com/imagery/reviews/03POP0TjDjuXonJXI16Omn2-1.fit_lpad.size_625x365.v1663720055.jpg"
+        "image": "https://vader-prod.s3.amazonaws.com/1659027533-21Z8UFAT0BL._SL500_.jpg"
       },
       {
         "id": 4,
@@ -30,7 +30,7 @@
         "description": "A high-definition smart TV with built-in streaming services.",
         "price": 999.99,
         "color": "Black",
-        "image": "https://i.pcmag.com/imagery/reviews/03POP0TjDjuXonJXI16Omn2-1.fit_lpad.size_625x365.v1663720055.jpg"
+        "image": "https://www.shutterstock.com/image-photo/television-sky-monitor-landscape-isolated-260nw-273934718.jpg"
       },
       {
         "id": 5,
@@ -38,7 +38,7 @@
         "description": "A portable tablet with a large screen and fast performance.",
         "price": 499.99,
         "color": "Space Gray",
-        "image": "https://i.pcmag.com/imagery/reviews/03POP0TjDjuXonJXI16Omn2-1.fit_lpad.size_625x365.v1663720055.jpg"
+        "image": "https://www.digitaltrends.com/wp-content/uploads/2022/11/2021-Apple-10-inch-iPad.jpg?fit=720%2C720&p=1"
       },
       {
         "id": 6,
@@ -46,7 +46,7 @@
         "description": "An advanced gaming console for immersive gaming experiences.",
         "price": 399.99,
         "color": "Black",
-        "image": "https://i.pcmag.com/imagery/reviews/03POP0TjDjuXonJXI16Omn2-1.fit_lpad.size_625x365.v1663720055.jpg"
+        "image": "https://www.gameshub.com/wp-content/uploads/sites/5/2022/09/ps5-console-firmware.jpg?w=1024"
       },
       {
         "id": 7,
@@ -54,7 +54,7 @@
         "description": "True wireless earbuds with long battery life and great sound quality.",
         "price": 149.99,
         "color": "Black",
-        "image": "https://i.pcmag.com/imagery/reviews/03POP0TjDjuXonJXI16Omn2-1.fit_lpad.size_625x365.v1663720055.jpg"
+        "image": "https://media.istockphoto.com/id/1204039347/photo/apple-airpods-on-a-white-background.jpg?s=612x612&w=0&k=20&c=2__4hfynkvBt7PA0UE7N5JxSTuaGRFVKaXJUuoQlBzk="
       },
       {
         "id": 8,
@@ -62,7 +62,7 @@
         "description": "A stylish smartwatch with health tracking and notification features.",
         "price": 299.99,
         "color": "Rose Gold",
-        "image": "https://i.pcmag.com/imagery/reviews/03POP0TjDjuXonJXI16Omn2-1.fit_lpad.size_625x365.v1663720055.jpg"
+        "image": "https://www.jiomart.com/images/product/original/rvv7t3voqu/txor-verve-t500-smart-watch-fitness-band-44mm-white-color-touch-screen-for-android-and-ios-white-strap-and-wireless-charger-product-images-orvv7t3voqu-p591301933-0-202205140303.jpg?im=Resize=(420,420)"
       },
       {
         "id": 9,
@@ -70,7 +70,7 @@
         "description": "A professional-grade digital camera for capturing stunning photos.",
         "price": 799.99,
         "color": "Black",
-        "image": "https://i.pcmag.com/imagery/reviews/03POP0TjDjuXonJXI16Omn2-1.fit_lpad.size_625x365.v1663720055.jpg"
+        "image": "https://static.vecteezy.com/system/resources/previews/000/236/079/original/modern-digital-slr-camera-with-lens-on-white-background-vector.jpg"
       },
       {
         "id": 10,
@@ -78,7 +78,7 @@
         "description": "A portable Bluetooth speaker with high-quality audio output.",
         "price": 79.99,
         "color": "Red",
-        "image": "https://i.pcmag.com/imagery/reviews/03POP0TjDjuXonJXI16Omn2-1.fit_lpad.size_625x365.v1663720055.jpg"
+        "image": "https://img.freepik.com/premium-photo/bluetooth-speaker-smartphone-white-background_237099-95.jpg"
       }
     ]
   }
